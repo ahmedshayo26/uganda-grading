@@ -1,0 +1,22 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "CI Class",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmedshayo26/uganda-grading.git"
+  },
+  "author": "Ahmed Shayo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmedshayo26/uganda-grading/issues"
+  },
+  "homepage": "https://github.com/ahmedshayo26/uganda-grading#readme",
+  "dependencies": {
+    "jest": "^25.1.0"
+  }
+}
